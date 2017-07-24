@@ -1,0 +1,156 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background: rgb(159, 181, 187);
+  color: rgb(50, 50, 50);
+}
+
+header{
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.logo{
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+}
+
+nav.fixedsticky{
+  position: sticky;
+  top: 0;
+
+}
+li{
+  display: inline-block;
+  list-style-type: none;
+  padding: 50px;
+  font-family: Herculanum, Lihos Pro Regular, Calibri, sans-serif;
+  font-size: 18pt;
+
+}
+
+a:link{
+  color: rgb(50, 50, 50);
+  text-decoration: none;
+}
+
+a:visited{
+  color: black;
+}
+
+a:hover{
+  color: rgb(213, 233, 239);
+}
+
+a:active{
+  color: rgb(213, 233, 239);
+}
+
+.content{
+  font-family: Calibri, Arial, sans-serif;
+  font-size: 14pt;
+  margin-top: 50px;
+  width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+
+}
+
+h2{
+  font-family: Herculanum, Lihos Pro Regular, Calibri, sans-serif;
+  font-size: 15pt;
+  margin-top: 60px;
+}
+
+.bildhaus{
+
+  width: 550px;
+  margin-top: 40px;
+
+}
+
+figcaption{
+
+  font-size: 11pt;
+}
+
+figure{
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.maerchen1{
+  margin-top: 40px;
+}
+
+.einzelbild1{
+  display: inline-block;
+  padding-right: 15px;
+  width: 47%;
+}
+
+.einzelbild2{
+  display: inline-block;
+  padding-left: 15px;
+  width: 47%;
+
+}
+
+hr{
+  width: 450;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  color: rgb(50, 50, 50);
+}
+
+.textil{
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.portrait{
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.tanzprojekt{
+  margin-top: 40px;
+}
+
+.datum{
+  padding-right: 15px;
+}
+
+table{
+  font-family: Calibri, Arial, sans-serif;
+  font-size: 14pt;
+}
+td{
+  padding-bottom: 15px;
+}
+
+.einzelbild3{
+  display: inline-block;
+  padding-left: 10px;
+  width: 176px;
+}
+
+.einzelbild4{
+  display: inline-block;
+  padding-left: 10px;
+  width: 176px;
+}
+
+.einzelbild5{
+  display: inline-block;
+  width: 176px;
+}

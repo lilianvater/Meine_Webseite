@@ -99,7 +99,6 @@ h2{
 
 .bildhaus{
 
-  width: 550px;
   margin-top: 40px;
 
 }
@@ -169,16 +168,16 @@ td{
 .einzelbild3{
   display: inline-block;
   padding-left: 10px;
-  width: 176px;
+  width: 31%;
 }
 
 .einzelbild4{
   display: inline-block;
   padding-left: 10px;
-  width: 176px;
+  width: 31%;
 }
 
 .einzelbild5{
   display: inline-block;
-  width: 176px;
+  width: 31%;
 }
